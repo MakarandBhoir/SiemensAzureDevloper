@@ -3,5 +3,8 @@
 
 https://synergeticsindia-my.sharepoint.com/:u:/g/personal/makarandbhoir_synergetics-india_com/EbGpyHuQOB9DuVkC9tAEOHUBOS80vL-XwWVRNWabAmFz5w?e=sfpToy
 
-
+--- db ----
 https://synergeticsindia-my.sharepoint.com/:t:/g/personal/makarandbhoir_synergetics-india_com/EfpKZ7Zp8LtKuO5_yTQoqlcBAe4Vr31a_zlV1BtcygX7VQ?e=pMHiLx
+
+---service bus-----
+Endpoint=sb://siemensbus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=j8ay53FDJ5sXAgdsEcM8yc2DcNzj4t1WU+ASbN3OpAo=MAKARAND
